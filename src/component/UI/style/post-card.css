@@ -28,3 +28,8 @@
     line-height: 1.6;
     overflow-wrap: break-word;
 }
+
+.post-timestamp {
+    font-size: 0.85rem;
+    color: #777;
+}
