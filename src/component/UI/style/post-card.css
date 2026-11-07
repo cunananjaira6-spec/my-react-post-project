@@ -23,3 +23,8 @@
 .post-item:hover {
     background-color: #f9fafb;
 }
+
+.post-message {
+    line-height: 1.6;
+    overflow-wrap: break-word;
+}
