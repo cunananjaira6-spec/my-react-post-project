@@ -10,3 +10,8 @@
     margin-left: auto;
     text-align: right;
 }
+.post-item {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 16px;
+    margin-bottom: 16px;
+}
