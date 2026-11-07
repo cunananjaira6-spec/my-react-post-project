@@ -1,0 +1,12 @@
+
+.post-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.post-timestamp {
+    margin-left: auto;
+    text-align: right;
+}

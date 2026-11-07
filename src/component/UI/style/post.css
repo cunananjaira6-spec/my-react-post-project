@@ -1,0 +1,57 @@
+.post-page {
+    width: 100%;
+    max-width: 700px;
+    margin: 30px auto;
+    padding: 20px;
+    box-sizing: border-box;
+    background: #fff;
+    text-align: left;
+    font-family: Arial, sans-serif;
+}
+
+.post-form {
+    width: 100%;
+}
+
+.post-input {
+    display: block;
+    width: 100%;
+    min-height: 100px;
+    padding: 14px;
+    box-sizing: border-box;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    resize: vertical;
+    font-size: 15px;
+    font-family: inherit;
+    outline: none;
+}
+
+.post-input:focus {
+    border-color: #999;
+}
+
+.post-error {
+    color: #dc2626;
+    font-size: 13px;
+    width: 100%;
+}
+
+.post-button {
+    display: block;
+    width: fit-content;
+    margin: 12px auto 20px 0;
+    padding: 9px 30px;
+    border: none;
+    border-radius: 4px;
+    background: #9299a1;
+    color: white;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.post-button:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+}
+
